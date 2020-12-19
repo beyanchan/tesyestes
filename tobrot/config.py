@@ -1,10 +1,10 @@
 from tobrot.sample_config import Config
 
 class Config(Config):
-  TG_BOT_TOKEN = "1456964191:AAFLkOh48xbnOtRUwlvCv-q2JObLA7vJsOg"
-  APP_ID = 1878625
-  API_HASH = "3ab3e48ba126de2eb96ffff39b18fa09"
-  AUTH_CHANNEL = [-1001256038785, -1001408445549, -1001398883981, -1001275361660, -1001273851623]
+  TG_BOT_TOKEN = "1471375127:AAFP14HlEro5Xk3G-kAjsHzfMlfCaPk_TvA"
+  APP_ID = 2105857
+  API_HASH = "c8aacc9417551dc98e2b2f61fbfb8387"
+  AUTH_CHANNEL = [-468168430, -1001408445549, -1001398883981, -1001275361660, -1001273851623]
   INDEX_LINK = "https://tgindex.hackitabirhasan.workers.dev/3:/Uploads"
   YTDL_COMMAND = "ytdl@Leechz_Robot"
   LEECH_COMMAND = "leech@Leechz_Robot"
